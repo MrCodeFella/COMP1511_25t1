@@ -1,0 +1,18 @@
+if ( days > 10) :
+    if (up to date with labs and lectures) :
+        printf "work on assignment"
+    else
+        catch up on them
+
+else if ( 7 <= days and days <= 10) : 
+    if (have you finished your assignment) :
+        printf "dont forget to check your style"
+    else: 
+        printf "you should start! ASk for help if you need"
+
+else :
+    if (are you on track to finish) :
+        printf "you got this"
+    else : 
+        printf "attend help session and ask your tutors and forums for assistance"
+        
